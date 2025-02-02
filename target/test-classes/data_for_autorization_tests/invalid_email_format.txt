@@ -1,2 +1,0 @@
-test@mail.ru Test
-user@example.com User
